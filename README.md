@@ -1,0 +1,1 @@
+This is a custom module for drupal 7 inspired in a tutorial of [Josh Wynn]('https://www.fourkitchens.com/blog/article/building-custom-blocks-drupal-7') to show an editable block with an image and a text.
