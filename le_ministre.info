@@ -1,0 +1,5 @@
+name = le_ministre
+description = Module to show sumary 
+package = Custom
+version = VERSION
+core = 7.x
